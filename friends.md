@@ -9,9 +9,11 @@ comments: true
 ---
 
 ### همکلاسی‌ها
-* علی حسینی
-* بهداد محمدی
-* حسن داریان
+* javad medi tabar
+* babak behkam
+* porya zamani
+
+
 
 
 
