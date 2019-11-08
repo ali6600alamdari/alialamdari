@@ -20,3 +20,19 @@ The best ways to make the most of your time are according to conversations with 
 4. Allocate time between all courses in a balanced manner so that all of them are well developed
 
 5. Continued effort in learning content and not thinking that learning will not happen and just wasting time.
+
+---
+layout: posts
+author_profile: true
+permalink: /blog/
+title: Blog Posts
+tags: [blog]
+modified: 7-11-2019
+comments: true
+---
+How to create a blog on Git Hub?
+First you need to install git on your computer
+- url: /assets/images/1.jpg
+    image_path: /assets/images/7.jpg
+Then log into github.com and sign up there
+- url: /assets/images/sign.jpg
