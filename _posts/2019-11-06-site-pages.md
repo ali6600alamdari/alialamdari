@@ -7,7 +7,7 @@ title: how to make github
 ![an image alt text]({{ali6600alamdari.github.io}}/alialamdari.github.io/assets/images/git.png)
 
 -Then log into github.com and sign up there
-![an image alt text]({{ali6600alamdari.github.io}}/alialamdari.github.io/assets/images/sign.jpg)
+![an image alt text]({{ali6600alamdari.github.io}}/alialamdari.github.io/assets/images/sign_L.png)
 
 -At this point a page will be created for you.
 You can find in the repositories section
