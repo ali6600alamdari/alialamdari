@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: Time Management
+title: github sit
 ---
 
 -First you need to install git on your computer
