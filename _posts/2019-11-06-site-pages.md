@@ -1,6 +1,6 @@
 ---
 layout: posts
-title:how to make github
+title: how to make github
 ---
 
 -First you need to install git on your computer
