@@ -1,9 +1,5 @@
 ---
-layout: default
-comments: true
-category: choose only one from /data/categories.yml
-tags: [tag1, tag2, …, tagn] choose from /data/tags.yml
-title:  مدیریت زمان در دوران دانشجویی 
+layout: posts
+title: create a github site
 ---
-*سلام 
-*سوال این است مه چگونه در دوران دانشجویی 
+![alt text]( /assets/images/git.jpg "First you need to install git on your computer")
