@@ -2,12 +2,11 @@
 layout: posts
 author_profile: true
 permalink: /blog/
-title: Blog Posts
+title: Final Exam
 tags: [blog]
 modified: 6-11-2019
 comments: true
 ---
-Final Exam
 سلام 
 تمرین امتحان عملی پایان ترم
 
