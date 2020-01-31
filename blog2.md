@@ -2,11 +2,13 @@
 layout: posts
 author_profile: true
 permalink: /blog/
-title: course website
+title: Blog Posts
 tags: [blog]
 modified: 6-11-2019
 comments: true
 ---
+course website
+
 salam 
 
 dar safhe dars ebteda web marbot ra dar CP khod clone karde va be virayesh on pardakhtim.
