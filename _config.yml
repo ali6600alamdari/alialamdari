@@ -135,7 +135,7 @@ author:
       icon: "fab fa-fw fa-github"
       # url: "https://github.com/"
     - label: "calendly"
-      icon: "fab fa-fw fa-calendly"
+      icon: "fab fa-fw fa-calendly-square"
       # url: "https://calendly.com/"
 
 # Site Footer
