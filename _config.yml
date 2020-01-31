@@ -157,7 +157,7 @@ footer:
       icon: "fab fa-fw fa-bitbucket"
       # url:
     - label: "calendly"
-      icon: "fab fa-fw fa-calendly"
+      icon: "fab fa-fw fa-calendly-square"
       # url:
 
 
