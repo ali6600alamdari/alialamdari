@@ -1,11 +1,6 @@
 ---
 layout: posts
-author_profile: true
-permalink: /blog/
 title: Hackathon
-tags: [blog]
-modified: 6-11-2019
-comments: true
 ---
 
 To start a Django project, you need to:
