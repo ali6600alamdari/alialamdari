@@ -6,6 +6,7 @@ title: Hackathon
 To start a Django project, you need to:
 - Create Django project and app
 create project by     .../python.exe -m django startproject project name in terminal
+<br/>
 create app by         .../python.exe  manage.py startapp app name in terminal
 
 - Create data model in models.py:
@@ -18,23 +19,25 @@ create app by         .../python.exe  manage.py startapp app name in terminal
 
 - create database
 use this codes :
+<br/>
 c:\vscode\python\python.exe manage.py makemigrations
+<br/>
 c:\vscode\python\python.exe manage.py migrate
-
+<br/>
 hint: Any changes to the models.py require a migrate
 
-
+<br/>
 - Add MyData to the admin panel: in admin.py
 ![an image alt text]({{ali6600alamdari.github.io}}/alialamdari.github.io/assets/images/admin.png)
 
-- create super user for admin panel:
+- create super user for admin panel:<br/>
 c:\vscode\python\python.exe manage.py createsuperuser
 
-- start django development server
-c:\vscode\python\python.exe manage.py runserver
-- Goto http://127.0.0.1:8000/admin
+- start django development server<br/>
+c:\vscode\python\python.exe manage.py runserver<br/>
+- Goto http://127.0.0.1:8000/admin<br/>
 
-- create templates folder inside django base dir (e.g., c:\git\FC98991\hackathon\mydemoproject1\templates)
+- create templates folder inside django base dir (e.g., c:\git\FC98991\hackathon\mydemoproject1\templates)<br/>
 - create form.html inside templates directory:
 ![an image alt text]({{ali6600alamdari.github.io}}/alialamdari.github.io/assets/images/html.png)
 
@@ -50,13 +53,13 @@ c:\vscode\python\python.exe manage.py runserver
 - Disable CSRF in setting.py:
 ![an image alt text]({{ali6600alamdari.github.io}}/alialamdari.github.io/assets/images/csrf.png)
 
-- in urls.py add /alldata:
+- in urls.py add /alldata:<br/>
     path('alldata/', views.get_all_data)
 
-- in views.py implement get_all_data:
-    def get_all_data(request):
-        d = MyData.objects.all()
-        return render(request, 'alldata.html', context={'data':d})
+- in views.py implement get_all_data:<br/>
+    def get_all_data(request):<br/>
+        d = MyData.objects.all()<br/>
+        return render(request, 'alldata.html', context={'data':d})<br/>
 
 
 - create alldata.html in templates directory:
